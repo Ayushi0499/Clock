@@ -1,0 +1,31 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+
+.mdiv{
+	height: 100vh;
+	width: 100%;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	background-image: url("https://media.istockphoto.com/id/1473765192/video/capture-the-essence-of-punctuality-and-productivity-with-our-sketch-animation-stock-video-of.jpg?s=640x640&k=20&c=JCFf42skcDHDJWEXa_9NaCON5DgCscjPOQx6PGN6IQo=");
+	
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	
+
+}
+.container{
+      
+       font-size: 80px;
+
+}
+.h1{
+	text-align: center;
+	color: #0d1d85;
+}
